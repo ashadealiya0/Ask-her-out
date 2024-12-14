@@ -7,7 +7,7 @@ function startQuestions() {
       document.getElementById("que").style.display = "none";
       document.getElementById("init").innerText = "YEY YEY 🎉🎉🎉";
     document.getElementById("message").style.display = "block";
-    document.getElementById("messageText").innerText = "I believe in love at first sight too! How about we go on a date and see if it's true?";
+    document.getElementById("messageText").innerText = "yayy let us pray juliet changes as well?";
     showConfetti()
 }
   
@@ -16,7 +16,7 @@ function startQuestions() {
     document.getElementById("que").style.display = "none";
     document.getElementById("init").innerText = "YEY YEY 🎉🎉🎉";
     document.getElementById("message").style.display = "block";
-    document.getElementById("messageText").innerText = "No worries, love takes time. But can we spend some time together and see if something beautiful blossoms?";
+    document.getElementById("messageText").innerText = "I knew it , the rude never change?";
     showConfetti()
 
 }
